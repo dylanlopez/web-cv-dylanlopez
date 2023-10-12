@@ -1,0 +1,14 @@
+.principal section#contactos ol.list li {
+  margin-bottom: 20px;
+}
+
+.principal p.contacto{
+  font-size:20px;
+  font-family:'Garamond, serif';
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.principal p.contacto span{
+  font-weight: bold;
+}

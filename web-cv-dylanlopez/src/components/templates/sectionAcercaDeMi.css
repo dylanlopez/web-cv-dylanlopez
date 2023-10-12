@@ -1,0 +1,12 @@
+.principal section#acerca-de-mi .image-container {
+  display:block;
+  width:100%;
+  text-align: center;
+  margin:250px auto 20px;
+}
+
+.principal section#acerca-de-mi .image-container img.circular_image {
+  border-radius: 50%;
+  height: auto;
+  max-width: 85%;
+}

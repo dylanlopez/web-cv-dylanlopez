@@ -1,0 +1,43 @@
+.principal section#experiencia p.empresa {
+  font-size:18px;
+  font-family:'Garamond, serif';
+  font-weight: bold;
+  margin: 0;
+}
+
+.principal section#experiencia p.cargo {
+  color:#666666;
+  font-size:12px;
+  font-family:'Garamond, serif';
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.principal section#experiencia p.fechas {
+  color:#666666;
+  font-size:16px;
+  font-family:'Garamond, serif';
+  margin: 0;
+}
+
+.principal section#experiencia p.giro{
+  font-size:14px;
+  font-family:'Garamond, serif';
+  margin: 0;
+}
+
+.principal section#experiencia ul.unlist {
+  list-style: "\2714";
+}
+
+.principal section#experiencia ul.unlist li {
+  font-size:14px;
+  font-family:'Garamond, serif';
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.principal section#experiencia .columns.spacing {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}

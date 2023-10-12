@@ -1,0 +1,10 @@
+.principal section#capacitacion ul.unlist {
+  list-style: "\2714";
+}
+
+.principal section#capacitacion ul.unlist li {
+  font-size:14px;
+  font-family:'Garamond, serif';
+  margin-top: 0;
+  margin-bottom: 0;
+}

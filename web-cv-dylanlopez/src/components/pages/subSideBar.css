@@ -1,0 +1,48 @@
+.subsidebar .image-container {
+  display:block;
+  width:100%;
+  text-align: center;
+  margin:100px auto 20px;
+}
+
+.subsidebar .image-container img.circular_image {
+  border-radius: 50%;
+  height: auto;
+  max-width: 45%;
+}
+
+.subsidebar h1 {
+  display:block;
+  width:100%;
+  color:white;
+  font-size:32px;
+  font-family:'Garamond, serif';
+  font-weight: bold;
+  text-align: center;
+  letter-spacing:1px;
+  margin:0px auto 4px;
+  padding: 0;
+}
+
+.subsidebar h2 {
+  display:block;
+  width:100%;
+  color:#eeeeee;
+  font-size:18px;
+  font-family:'Garamond, serif';
+  text-align: center;
+  letter-spacing:1px;
+  margin:0px auto 8px;
+  padding: 0;
+}
+
+.subsidebar .social-media {
+  display:block;
+  width:100%;
+  text-align: center;
+}
+
+.subsidebar .social-media a span{
+  color:#eeeeee;
+  font-size:20px;
+}

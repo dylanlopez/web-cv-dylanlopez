@@ -1,0 +1,26 @@
+.principal section#educacion p.empresa {
+  font-size:18px;
+  font-family:'Garamond, serif';
+  font-weight: bold;
+  margin: 0;
+}
+
+.principal section#educacion p.fechas {
+  color:#666666;
+  font-size:16px;
+  font-family:'Garamond, serif';
+  margin: 0;
+}
+
+.principal section#educacion ul.unlist2 li {
+  font-size:22px;
+  font-family:'Garamond, serif';
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.principal section#educacion .columns.spacing {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}

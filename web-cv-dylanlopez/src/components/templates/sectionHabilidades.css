@@ -1,0 +1,17 @@
+.principal section#habilidades p#my-technology-BackEnd, 
+.principal section#habilidades p#my-technology-FrontEnd, 
+.principal section#habilidades p#my-technology-Databases, 
+.principal section#habilidades p#my-technology-Cloud, 
+.principal section#habilidades p#my-technology-Others {
+  display:block;
+  width:100%;
+  color:black;
+  font-size:14px;
+  font-family:'Garamond, serif';
+  text-align: justify;
+  letter-spacing:1px;
+  margin: 5px auto 6px;
+}
+.principal section#habilidades p progress {
+  height: 0.5em;
+}

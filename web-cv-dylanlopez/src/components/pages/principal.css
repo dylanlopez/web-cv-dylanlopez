@@ -1,0 +1,32 @@
+.principal h1{
+  display:block;
+  width:100%;
+  color:black;
+  font-size:40px;
+  font-family:'Garamond, serif';
+  text-align: center;
+  letter-spacing:2px;
+  margin: 0;
+  padding: 0;
+}
+
+.principal h2{
+  display:block;
+  width:100%;
+  color:#666666;
+  font-size:20px;
+  font-family:'Garamond, serif';
+  text-align: center;
+  letter-spacing:1px;
+}
+
+.principal p {
+  display:block;
+  width:100%;
+  color:black;
+  font-size:16px;
+  font-family:'Garamond, serif';
+  text-align: justify;
+  letter-spacing:1px;
+  margin: 5px auto 15px;
+}
